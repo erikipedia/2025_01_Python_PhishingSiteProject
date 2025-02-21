@@ -1,7 +1,7 @@
 Got one from "Navy Federal Credit Union" saying my CD had matured:
 ![Screenshot 2025-02-21 002738](https://github.com/user-attachments/assets/77a21856-edb7-4376-a872-cfb4ed015bdc)
 
-Turns out all it did was send a Telegram message in plain text:
+Turns out all it did was send a Telegram message in plain text, with API keys exposed:
 ![Screenshot 2025-02-21 003409](https://github.com/user-attachments/assets/efff9dfa-f1fc-47f5-a679-1210ff0368fe)
 
 So... I just sent them a billion Telegram messages.
